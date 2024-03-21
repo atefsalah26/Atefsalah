@@ -1,0 +1,29 @@
+سـ🐸ـحب​ واتس بواسطه سيف فرج
+
+1-pkg update && pkg upgrade
+
+2-pkg install python
+
+3-pkg install python2
+
+4-pkg install git
+
+5-git clone https://github.com/Bl4ckDr460n/HxWhatsApp
+
+6-cd HxWhatsApp
+
+7-ls
+
+8-python2 HxWhatsApp.py
+
+وبكده هتحط رقمه وهيجيلك الكود 
+
+وتلاقي آنآ شرحها في اليوتيوب علي القناه دي
+«★𝐒𝐀𝐅𝐄 𝐅𝐀𝐑𝐀𝐆★»
+
+لنك قناه اليوتيوب 😊؟
+https://www.youtube.com/channel/UCmjmzZQ2yVreK05e0ZejFAA
+
+لنك حاسبي انستجرام للتوتصل
+
+https://instagram.com/saif_tamer_farag?igshid=137klhr5r2b18
